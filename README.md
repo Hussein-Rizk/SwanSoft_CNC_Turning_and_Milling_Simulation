@@ -1,6 +1,8 @@
 # 🛠️ SwanSoft CNC Turning & Milling Simulation
 
 **Course:** CNC Machines  
+**Year:** 2025  
+**Project Type:** University Course Project  
 **Software:** SwanSoft CNC Simulation  
 **Focus:** G-code programming, turning, milling, and virtual CNC machining  
 
@@ -227,3 +229,15 @@ in the report rather than recovered from original CNC program files.
 
 > Educational CNC project demonstrating turning and milling programming through G-code
 > development and SwanSoft virtual machining simulation.
+
+
+---
+
+## Course Information
+
+**Course:** CNC Machines  
+**Year:** 2025  
+**Project Type:** University Course Project  
+**Software:** SwanSoft CNC Simulation  
+
+> University CNC project focused on G-code programming, turning, milling, and virtual machining simulation using SwanSoft.
