@@ -211,7 +211,7 @@ be treated as **educational simulation code** and verified before use on physica
 
 The original CNC report is preserved here:
 
-[`Docs/CNC_Machines_Report.pdf`](./Docs/CNC_Machines_Report.pdf)
+[`Docs/CNC_Machines_Projects.pdf`](./Docs/CNC_Machines_Projects.pdf)
 
 It contains the original workpiece drawings, programming exercises, G-code listings,
 and SwanSoft screenshots.
